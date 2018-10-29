@@ -1,2 +1,4 @@
 import useLocalStorage from './useLocalStorage';
-export { useLocalStorage };
+import useWindowSize from './useWindowSize';
+
+export { useLocalStorage, useWindowSize };
