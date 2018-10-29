@@ -1,0 +1,14 @@
+{
+  "name": "use-react-hooks",
+  "version": "0.0.1",
+  "description": "A collection of react hooks that you can use for your projects",
+  "main": "src/index.js",
+  "repository": "https://github.com/saranshkataria/use-react-hooks.git",
+  "author": "saranshkataria <saransh@wisdomgeek.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0"
+  }
+}
