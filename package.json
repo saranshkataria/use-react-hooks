@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
+    "esm": "^3.0.84",
     "react": "^16.7.0-alpha.0",
     "react-dom": "^16.7.0-alpha.0"
   }
